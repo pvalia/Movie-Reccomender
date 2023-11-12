@@ -1,4 +1,2 @@
-# IEEE-workshop
-DEMO
+# Movie Recommender system
 
-Hello world
